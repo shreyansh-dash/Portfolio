@@ -13,7 +13,7 @@ export default function Home() {
           </h1>
 
           <p className="text-lg text-gray-300 mb-6">
-            ML-focused Computer Science student · Open-source contributor · GSoC 2026 aspirant
+            ML-focused Computer Science student · Open-source contributor 
           </p>
 
           <div className="flex gap-4">
