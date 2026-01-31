@@ -144,7 +144,7 @@ export default function Home() {
 
         <div className="flex flex-col sm:flex-row gap-4">
           <a
-            href="mailto:shreyansh.dash@gmail.com"
+            href="mailto:shreyanshdash.435@gmail.com"
             className="px-4 py-2 border border-gray-700 rounded hover:bg-gray-800 text-center"
           >
             Email
