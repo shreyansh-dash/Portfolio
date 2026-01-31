@@ -130,6 +130,43 @@ export default function Home() {
         </section>
       </Reveal>
 
+      <hr className="max-w-3xl mx-auto mt-24 border-gray-800" />
+
+      {/* CONTACT SECTION */}
+      <section className="max-w-3xl mx-auto mt-24 mb-10">
+        <h2 className="text-2xl font-semibold mb-6">
+          Contact
+        </h2>
+
+        <p className="text-gray-400 mb-6">
+          If you’d like to discuss projects, collaborations, or anything technical, feel free to reach out.
+        </p>
+
+        <div className="flex flex-col sm:flex-row gap-4">
+          <a
+            href="mailto:shreyansh.dash@gmail.com"
+            className="px-4 py-2 border border-gray-700 rounded hover:bg-gray-800 text-center"
+          >
+            Email
+          </a>
+
+          <a
+            href="https://github.com/shreyansh-dash"
+            className="px-4 py-2 border border-gray-700 rounded hover:bg-gray-800 text-center"
+          >
+            GitHub
+          </a>
+
+          <a
+            href="https://www.linkedin.com/in/shreyansh-dash-104b99228/?originalSubdomain=in"
+            className="px-4 py-2 border border-gray-700 rounded hover:bg-gray-800 text-center"
+          >
+            LinkedIn
+          </a>
+        </div>
+      </section>
+
+
     </main>
   );
 }
