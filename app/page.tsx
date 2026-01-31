@@ -9,7 +9,7 @@ export default function Home() {
         {/* HERO SECTION */}
         <section className="max-w-3xl mx-auto">
           <h1 className="text-4xl font-bold mb-4">
-            Shreyansh
+            Shreyansh Dash
           </h1>
 
           <p className="text-lg text-gray-300 mb-6">
